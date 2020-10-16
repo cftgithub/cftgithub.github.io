@@ -1,2 +1,4 @@
 # cftgithub.github.io
-This will be a live page!
+### Purpose:
+This is a demonstration on deploying through GitHub.
+This is a live page!
